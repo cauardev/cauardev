@@ -19,7 +19,7 @@ I am a Computer Science student focused on backend development with Java and the
 <h3 align="center">Backend & Data</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python,django,flask&amp;theme=dark&amp;perline=6" alt="Java, Spring Boot, PostgreSQL, Python, Django and Flask" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python&amp;theme=dark&amp;perline=6" alt="Java, Spring Boot, PostgreSQL, Python, Django and Flask" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ I am a Computer Science student focused on backend development with Java and the
 <h3 align="center">Web & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,docker,aws,git,github&amp;theme=dark&amp;perline=9" alt="Supabase, Docker, AWS, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=supabase,docker,aws,git,github&amp;theme=dark&amp;perline=9" alt="Supabase, Docker, AWS, Git and GitHub" />
 </p>
 
 <p align="center">
