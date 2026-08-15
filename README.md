@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Computer Science student building backend applications, REST APIs, and data-driven systems.
+  Computer Science student building backend applications, REST APIs, and architeture systems.
 </p>
 
 ## About Me
