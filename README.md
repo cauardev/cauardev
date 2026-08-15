@@ -56,7 +56,7 @@ I am a Computer Science student focused on backend development with Java and the
 ## Featured Projects
 
 - **[A simple CRM in Core Java](https://github.com/cauardev/crm-clientes-java)** — Console-based CRM with complete CRUD operations, validation, layered organization, and clean-code practices, built without frameworks.
-- **[ARCA](https://github.com/arthuralbefaro/projeto-arca-gp8)** — Animal-welfare management system designed for the Municipality of Serra, with a Django REST Framework API and a Next.js/React interface.
+- **[ARCA](https://github.com/arthuralbefaro/projeto-arca-gp8)** — Animal-welfare management system designed for the Municipality of Serra, with a Django REST Framework API, PostgreSQL and a Next.js/React interface.
 
 ## Contact
 
