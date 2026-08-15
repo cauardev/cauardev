@@ -16,7 +16,7 @@ I am a Computer Science student focused on backend development with Java and the
 
 <h2 align="center">Technical Stack</h2>
 
-<h3 align="center">Backend & Data</h3>
+<h3 align="center">Backend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,python&amp;theme=dark&amp;perline=6" alt="Java, Spring Boot, PostgreSQL, Python, Django and Flask" />
@@ -55,10 +55,8 @@ I am a Computer Science student focused on backend development with Java and the
 
 ## Featured Projects
 
-- **[CRM in Core Java](https://github.com/cauardev/crm-java)** — Console-based CRM with complete CRUD operations, validation, layered organization, and clean-code practices, built without frameworks.
-- **[ARCA](https://github.com/cauardev/arca)** — Animal-welfare management system designed for the Municipality of Serra, with a Django REST Framework API and a Next.js/React interface.
-- **[Haxinsta](https://github.com/cauardev/haxinsta)** — Haxball-themed social network built with Next.js 14, TypeScript, Tailwind CSS, and Supabase.
-- **[Launchly](https://github.com/cauardev/launchly)** — Landing-page solution for local businesses built with Flask, featuring rate limiting, input sanitization, and security headers.
+- **[A simple CRM in Core Java](https://github.com/cauardev/crm-clientes-java)** — Console-based CRM with complete CRUD operations, validation, layered organization, and clean-code practices, built without frameworks.
+- **[ARCA](https://github.com/arthuralbefaro/projeto-arca-gp8)** — Animal-welfare management system designed for the Municipality of Serra, with a Django REST Framework API and a Next.js/React interface.
 
 ## Contact
 
