@@ -1,5 +1,3 @@
-<p align="right">
-  <a href="./README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
 <h1 align="center">Cauã Robson</h1>
@@ -16,30 +14,27 @@
 
 I am a Computer Science student focused on backend development with Java and the Spring ecosystem. I strengthen my software engineering fundamentals by building practical projects with Java, Spring Boot, Python, PostgreSQL, and modern web technologies.
 
-## Technical Stack
+<h2 align="center">Technical Stack</h2>
 
-### Backend &amp; Data
+<h3 align="center">Backend & Data</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python,django,flask&amp;theme=dark&amp;perline=6" alt="Java, Spring Boot, PostgreSQL, Python, Django and Flask" />
 </p>
 
-### Web &amp; Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+<p align="center">
+  Java · Spring Boot · PostgreSQL · Python
 </p>
 
-# :bar_chart: GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=cauardev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=cauardev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=cauardev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="center">Web & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,docker,aws,git,github&amp;theme=dark&amp;perline=9" alt="Supabase, Docker, AWS, Git and GitHub" />
+</p>
+
+<p align="center">
+  Supabase · Docker · AWS · Git & GitHub
+</p>
 
 ## GitHub Activity
 
@@ -73,8 +68,5 @@ I am a Computer Science student focused on backend development with Java and the
   </a>
   <a href="mailto:contato.cauarobs@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="https://cauardev.github.io/portfolio-caua/">
-    <img src="https://img.shields.io/badge/Portfolio-6DB33F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
 </p>
