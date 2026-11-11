@@ -1,70 +1,163 @@
-</p>
+ <div align="center">
 
-<h1 align="center">Cauã Robson</h1>
+# Cauã Robson
 
-<p align="center">
-  <strong>Backend Developer | Java &amp; Spring Ecosystem</strong>
-</p>
+**Computer Science Student @ UVV · Backend Development**
 
-<p align="center">
-  Computer Science student building backend applications and softwares, REST APIs, and data-driven systems.
-</p>
-
-## About Me
-
-I am a Computer Science student focused on backend development with Java and the Spring ecosystem. I strengthen my software engineering fundamentals by building practical projects with Java, Spring Boot, Python, PostgreSQL, and modern web technologies.
-
-<h2 align="center">Technical Stack</h2>
-
-<h3 align="center">Backend</h3>
+Building backend applications, REST APIs and software projects with a focus on Java and the Spring ecosystem.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python&amp;theme=dark&amp;perline=6" alt="Java, Spring Boot, PostgreSQL, Python, Django and Flask" />
+  <a href="https://www.linkedin.com/in/cau%C3%A3robson">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contato.cauarobs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/cauardev">
+    <img src="https://img.shields.io/badge/GitHub-cauardev-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+</div>
 
 <p align="center">
-  Java · Spring Boot · PostgreSQL · Python
+  <a href="#about">About</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#github-activity">Activity</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
-<h3 align="center">Web & Tools</h3>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,docker,aws,git,github&amp;theme=dark&amp;perline=9" alt="Supabase, Docker, AWS, Git and GitHub" />
+## About
+
+I'm a Computer Science student at **Universidade Vila Velha (UVV)**, focused on backend development and software engineering.
+
+My primary focus is the **Java ecosystem**, particularly Spring Boot, REST APIs and relational databases. I enjoy turning ideas into practical applications while strengthening my knowledge of programming fundamentals, software architecture and application development.
+
+I'm also exploring frontend technologies to better understand full-stack development and the integration between different application layers.
+
+**Currently focused on:**
+- Java and Spring Boot development.
+- REST API design and implementation.
+- PostgreSQL and relational database management.
+- Software architecture and clean code.
+
+## Tech Stack
+
+Technologies I use across my studies and projects, organized by development area.
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" alt="Java, Python, C, JavaScript and TypeScript"/>
 </p>
 
-<p align="center">
-  Supabase · Docker · AWS · Git & GitHub
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot"/>
+  <br/>
+  <sub>Spring Boot · REST APIs</sub>
 </p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React and Next.js"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/>
+  <br/>
+  <sub>PostgreSQL · SQL</sub>
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Docker and AWS"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code"/>
+</p>
+
+---
+
+## Featured Projects
+
+A selection of projects that represent my current development journey.
+
+### ARCA — Animal Care Management System
+
+Collaborative full-stack platform designed to support animal care management for the Municipality of Serra, Espírito Santo.
+
+**Technologies:** Java 21 · Spring Boot 3.3 · Next.js 16 · React 19 · PostgreSQL 16 · Docker
+
+<a href="https://github.com/cauardev/projeto-arca-gp8">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cauardev&repo=projeto-arca-gp8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&icon_color=6DB33F" width="100%" alt="ARCA repository card"/>
+</a>
+
+### CRM — Customer Management System
+
+Console-based CRM developed in Core Java, featuring customer management, complete CRUD operations, input validation, file-based persistence and layered architecture.
+
+**Technologies:** Java 17 · Object-Oriented Programming · Java NIO
+
+<a href="https://github.com/cauardev/crm-clientes-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cauardev&repo=crm-clientes-java&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&icon_color=6DB33F" width="100%" alt="CRM Java repository card"/>
+</a>
+
+### C Programming Laboratory
+
+Academic exercises developed throughout the Computer Science programming laboratory, covering programming fundamentals and problem-solving using C.
+
+**Topics:** Matrices · Strings · Functions · Logic · Conditional Structures
+
+<a href="https://github.com/cauardev/laboratorio-programacao-c">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cauardev&repo=laboratorio-programacao-c&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&icon_color=6DB33F" width="100%" alt="C programming laboratory repository card"/>
+</a>
+
+---
 
 ## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/cauardev">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=cauardev&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark&amp;title_color=6DB33F" alt="Cauã's most used languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=cauardev&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&icon_color=6DB33F" alt="GitHub statistics"/>
   </a>
   <a href="https://github.com/cauardev">
-    <img height="180" src="https://streak-stats.demolab.com?user=cauardev&amp;theme=github-dark-blue&amp;hide_border=true&amp;ring=6DB33F&amp;fire=6DB33F&amp;currStreakLabel=6DB33F" alt="Cauã's GitHub contribution streak" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauardev&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9" alt="Most used programming languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cauardev">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cauardev&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;line=6DB33F&amp;point=FFFFFF" alt="Cauã's GitHub contribution graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cauardev&bg_color=0D1117&color=C9D1D9&line=6DB33F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
   </a>
 </p>
 
-## Featured Projects
-
-- **[A simple CRM in Core Java](https://github.com/cauardev/crm-clientes-java)** — Console-based CRM with complete CRUD operations, validation, layered organization, and clean-code practices, built without frameworks.
-- **[ARCA](https://github.com/arthuralbefaro/projeto-arca-gp8)** — Animal-welfare management system designed for the Municipality of Serra, with a Django REST Framework API, PostgreSQL and a Next.js/React interface.
+---
 
 ## Contact
 
+I'm always interested in connecting with developers, learning from other projects and exploring opportunities in software development.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/cau%C3%A3robson">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:contato.cauarobs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>Learning, building and improving — one project at a time.</sub>
 </p>
